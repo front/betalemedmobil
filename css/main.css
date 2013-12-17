@@ -102,6 +102,11 @@ body {
     color: #36312B;
 }
 
+    .illustration {
+        max-width: 100%;
+        padding: 40px 0;
+    }
+
 .logo {
     margin: 1px 0 20px;
 }
